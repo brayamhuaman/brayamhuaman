@@ -3,8 +3,8 @@ HOLA
   Hola Soy Brayam Huaman Paco
 ```
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/brayamhuaman/">
+  <img align="left" alt="Brayam Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -72,4 +72,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
