@@ -18,7 +18,7 @@ HOLA
 
 
 
-<br />
+<br>
 
 Hola, Soy [Brayam], bachiller en Ingenieria de Sistemas de la Universidad de Huancavelica .
 Apasionado con la programacion.
