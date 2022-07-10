@@ -23,7 +23,7 @@ Hola, Soy Brayam, bachiller en Ingenieria de Sistemas de la Universidad de Huanc
 Apasionado con la programacion.
  </br></code>
 
-  <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="220" />
+  <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="420" />
   
 - 💼 Contactame, [email](hpbrayam@gmail.com) :)
 - 💬 Preguntame cualquier duda;
