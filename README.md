@@ -23,7 +23,7 @@ Hola, Soy Brayam, bachiller en Ingenieria de Sistemas de la Universidad de Huanc
 Apasionado con la programacion.
  </br></code>
 
-  <img align="right" alt="GIF" src="https://japaneselevelup.com/wp-content/uploads/2018/05/Why-Programmers-Like-Japanese-Why-Japanese-Learners-like-Programming-1-min.jpg" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="220" />
   
 - 💼 Contactame, [email](hpbrayam@gmail.com) :)
 - 💬 Preguntame cualquier duda;
