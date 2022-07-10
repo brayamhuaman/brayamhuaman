@@ -13,14 +13,13 @@ HOLA
   <img align="left" alt="Brayam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brayamhuaman">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Brayam LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
 
 <code><br>
-
-Hola, Soy Brayam, bachiller en Ingenieria de Sistemas de la Universidad de Huancavelica .
+Hola, Soy Brayam, bachiller en Ingenieria de Sistemas de la Universidad de Huancavelica.
 Apasionado con la programacion.
  </br></code>
 
@@ -42,18 +41,17 @@ Apasionado con la programacion.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **Esta semana aprendi:**
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 37 mins   ████████████████▓░░   91.20 %
-MDX          31 mins         █▓░░░░░░░░░░░░░░░░░   06.18 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░   01.74 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░   00.81 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░   00.04 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░   00.03 %
+HTML         7 hrs 37 mins   ████████████████▓░░   91.20 %
+CSS          31 mins         █▓░░░░░░░░░░░░░░░░░   06.18 %
+JavaScript     8 mins          ▒░░░░░░░░░░░░░░░░░░   01.74 %
+Python         4 mins          ▒░░░░░░░░░░░░░░░░░░   00.81 %
+C/C++   0 secs          ░░░░░░░░░░░░░░░░░░░   00.04 %
+VB.net          0 secs          ░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
-
 <!--END_SECTION:waka-->
 
 Un café🥺👉👈
