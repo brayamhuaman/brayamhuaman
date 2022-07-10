@@ -18,16 +18,16 @@ HOLA
 
 
 
-<br>
+<code><br>
 
 Hola, Soy Brayam, bachiller en Ingenieria de Sistemas de la Universidad de Huancavelica .
 Apasionado con la programacion.
- </br> 
+ </br></code>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Contactame, [email](hpbrayam@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 Preguntame cualquier duda;
 
 **languages and tools:**  
 
