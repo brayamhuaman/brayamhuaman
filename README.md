@@ -1,7 +1,7 @@
 # HOLA :notebook:
 ## Mi Nombre es Brayam Huaman
 ### Bachiller en Ingenieria de Sistemas, apasionado con la programacion.
-#### Contactame
+#### Contactame 💼 [MAIL](bhuaman@vk.com) 💬 Preguntame cualquier duda ;)
 <br>
 <a href="https://www.instagram.com/brayamhuaman/">
   <img align="left" title="Brayam Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -18,8 +18,7 @@
 </br>
 
   <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="420" />
-  
-###  💼 [MAIL](bhuaman@vk.com) 💬 Preguntame cualquier duda ;)
+
 
 ## **Lenguajes de Programacion y Herramientas:**  
 <div style="display: inline_block">
