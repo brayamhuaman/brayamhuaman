@@ -19,7 +19,7 @@
 
   <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="420" />
   
-## - 💼 Contactame, [email](hpbrayam@gmail.com) 💬 Preguntame cualquier duda ;)
+## - 💼 Contactame, [email](bhuaman@gvk.com) 💬 Preguntame cualquier duda ;)
 
 # **Lenguajes de Programacion y Herramientas:**  
 
