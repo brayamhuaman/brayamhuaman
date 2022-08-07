@@ -19,12 +19,12 @@
 
   <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="420" />
   
-## - 💼 Contactame, [email](bhuaman@gvk.com) 💬 Preguntame cualquier duda ;)
+## - 💼 Contactame, [email](bhuaman@vk.com) 💬 Preguntame cualquier duda ;)
 
 # **Lenguajes de Programacion y Herramientas:**  
 
 <div style="display: inline_block">
-<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="center" title="JAVA" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="center" alt="Vue" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="center" alt="Graphql" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML         7 hrs 37 mins   ████████████████▓░░   91.20 %
+HTML         7 hrs 37 mins   ████████████████  91.20 %
 CSS          31 mins         █▓░░░░░░░░░░░░░░░░░   06.18 %
 JavaScript     8 mins          ▒░░░░░░░░░░░░░░░░░░   01.74 %
 Python         4 mins          ▒░░░░░░░░░░░░░░░░░░   00.81 %
