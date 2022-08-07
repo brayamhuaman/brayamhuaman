@@ -19,9 +19,9 @@
 
   <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="420" />
   
-## - 💼 Contactame, [email](bhuaman@vk.com) 💬 Preguntame cualquier duda ;)
+###  💼 [MAIL](bhuaman@vk.com) 💬 Preguntame cualquier duda ;)
 
-# **Lenguajes de Programacion y Herramientas:**  
+## **Lenguajes de Programacion y Herramientas:**  
 <div style="display: inline_block">
 <img align="center" title="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="center" title="Vue" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
@@ -36,7 +36,7 @@
 </div>
 
 
-# 📊 **Esta semana aprendi:**
+## 📊 **Esta semana aprendi:**
 <!--START_SECTION:waka-->
 
 ```text
