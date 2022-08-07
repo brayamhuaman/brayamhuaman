@@ -2,6 +2,7 @@
 ## Mi Nombre es Brayam Huaman
 ## Bachiller en Ingenieria de Sistemas, apasionado con la programacion.
 #
+<br>
 <a href="https://www.instagram.com/brayamhuaman/">
   <img align="left" alt="Brayam Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -14,6 +15,7 @@
 <a href="https://www.linkedin.com/in/brayamhuaman">
   <img align="left" alt="Brayam LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</br>
 
 
  
