@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/brayamhuaman/">
   <img align="left" alt="Brayam Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg">
   <img align="left" alt="Brayam's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/brayamhuaman">
@@ -19,8 +19,8 @@
 
   <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="420" />
   
-##- 💼 Contactame, [email](hpbrayam@gmail.com) :)
-- 💬 Preguntame cualquier duda;
+## - 💼 Contactame, [email](hpbrayam@gmail.com) :)
+## - 💬 Preguntame cualquier duda;
 
 **Lenguajes de Programacion y Herramientas:**  
 
@@ -37,7 +37,7 @@
 <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </div>
 
-📊 **Esta semana aprendi:**
+# 📊 **Esta semana aprendi:**
 <!--START_SECTION:waka-->
 
 ```text
