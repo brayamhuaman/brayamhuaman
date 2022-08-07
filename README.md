@@ -62,7 +62,7 @@ Un café🥺👉👈
 <!-- TODO-IST:END -->
 
 
-# STATS :peru:
+# STATS :floppy_disk:
 
 
 <div align="center">
