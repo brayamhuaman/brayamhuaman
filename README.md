@@ -61,9 +61,9 @@ VB.net          0 secs          ░░░░░░░░░░░░░░░░
 
 
   <a href="https://github.com/brayamhuaman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme=gotham"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=6&theme=radical" height="30" width="40" />
 </div>
 
 ```py
