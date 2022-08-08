@@ -17,7 +17,7 @@
 </a>
 </br>
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="380" height="320" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="400" height="320" />
 
 
 ## **Lenguajes de Programacion y Herramientas:**  
