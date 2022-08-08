@@ -17,7 +17,7 @@
 </a>
 </br>
 
-  <img align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" width="300" height="420" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="300" height="420" />
 
 
 ## **Lenguajes de Programacion y Herramientas:**  
