@@ -53,7 +53,7 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 # STATS :floppy_disk:
 
 <a href="http://www.github.com/brayamhuaman">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&stroke=ffffff&background=white&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&stroke=ffffff&background=silver&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
   <a href="https://github.com/brayamhuaman">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme="/>
