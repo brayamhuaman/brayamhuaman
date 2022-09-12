@@ -52,18 +52,15 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 
 # STATS :floppy_disk:
 <div align="center">
-  <a href="https://github.com/XGilmar">
-  
-  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/> 
- 
-</div>
-<a href="http://www.github.com/brayamhuaman">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&stroke=ffffff&background=black&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
   <a href="https://github.com/brayamhuaman">
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme=gotham"/>
-      <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=6&theme=gotham" />
-</div>
+    <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/> 
+ </div>
+  
+  <div align="center">
+<a href="http://www.github.com/brayamhuaman">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&stroke=ffffff&background=black&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+    <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme=gotham"/>
+  </div>
 
 ```py
 Thanks
