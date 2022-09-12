@@ -53,13 +53,13 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 # STATS / ESTADISTICAS :floppy_disk:
 <div align="center">
   <a href="https://github.com/brayamhuaman">
-      <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&theme=gradient"/>
+      <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&theme=gradient&locale=es"/>
  </div>
   
   <div align="center">
 <a href="http://www.github.com/brayamhuaman">
       <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=brayamhuaman&theme=github-light&border_radius=10&locale=es"/>
-      <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme"/>
+      <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme&locale=es"/>
   </div>
   
 ```py
