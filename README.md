@@ -53,12 +53,12 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 # STATS :floppy_disk:
 <div align="center">
   <a href="https://github.com/brayamhuaman">
-    <img width="80%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=white&theme"/> 
+    <img width="80%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=black&bg_color=white&theme"/> 
  </div>
   
   <div align="center">
 <a href="http://www.github.com/brayamhuaman">
-<img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&stroke=ffffff&background=white&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme"/>
+<img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&stroke=ffffff&background=white&ring=0891b2&fire=0891b2&currStreakNum=black&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme"/>
       <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme"/>
   </div>
   
