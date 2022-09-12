@@ -58,7 +58,7 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
   
   <div align="center">
 <a href="http://www.github.com/brayamhuaman">
-      <img width="49%" height="auto" src="[https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme](https://github-readme-streak-stats.herokuapp.com?user=brayamhuaman&theme=github-light&border_radius=10&locale=es)"/>
+      <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=brayamhuaman&theme=github-light&border_radius=10&locale=es"/>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brayamhuaman&theme=github-light&border_radius=10&locale=es)](https://git.io/streak-stats)
   
