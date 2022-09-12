@@ -50,10 +50,10 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 <!-- TODO-IST:END -->
 
 
-# STATS :floppy_disk:
+# STATS / ESTADISTICAS :floppy_disk:
 <div align="center">
   <a href="https://github.com/brayamhuaman">
-    <img width="80%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=black&bg_color=white&theme"/> 
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&theme=gradient"/>
  </div>
   
   <div align="center">
