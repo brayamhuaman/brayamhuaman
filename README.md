@@ -45,11 +45,6 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 ## Un café 🥺👉👈
 <a href="https://www.buymeacoffee.com/brayamhuaman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<!-- TODO-IST:START -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&redirect=true)
-<!-- TODO-IST:END -->
-
-
 # STATS / ESTADISTICAS :floppy_disk:
 <div align="center">
   <a href="https://github.com/brayamhuaman">
@@ -65,3 +60,7 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 ```py
 Thanks
 ```
+    
+    <!-- TODO-IST:START -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&redirect=true)
+<!-- TODO-IST:END -->
