@@ -1,6 +1,6 @@
 # HOLA :notebook:
-## Mi Nombre es Brayam Huaman
-### Bachiller en Ingenieria de Sistemas, aficionado con la programacion.
+## Mi Nombre es Brayam
+### Estidante en Ingenieria de Sistemas, aficionado con la programacion.
 #### Contactame 💼 [MAIL](bhuaman@vk.com) 💬 Preguntame cualquier duda ;)
 <br>
 <a href="https://www.instagram.com/brayamhuaman/">
