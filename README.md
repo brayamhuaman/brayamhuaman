@@ -47,9 +47,7 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 
 # STATS / ESTADISTICAS :floppy_disk:
 <div align="center">
-  <a href="https://github.com/brayamhuaman">
-      <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&layout=compact&langs_count=7&theme=gradient&locale=es"/>
- </div>
+[![Brayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayamhuaman)](https://github.com/brayamhuaman/github-readme-stats)
   
   <div align="center">
 <a href="http://www.github.com/brayamhuaman">
