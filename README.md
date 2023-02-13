@@ -46,14 +46,7 @@ VB.net       0 secs  ░░░░░░░░░░░░░░░░░░░  
 <a href="https://www.buymeacoffee.com/brayamhuaman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 # STATS / ESTADISTICAS :floppy_disk:
-<div align="center">
-[![Brayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayamhuaman)](https://github.com/brayamhuaman/github-readme-stats)
-  
-  <div align="center">
-<a href="http://www.github.com/brayamhuaman">
-      <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=brayamhuaman&theme=github-light&border_radius=10&locale=es"/>
-      <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=brayamhuaman&show_icons=true&theme&border_radius=10&locale=es"/>
-  </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brayamhuaman&theme=github-light&border_radius=9.9&date_format=j%20M%5B%20Y%5D&sideLabels=EB5454&sideNums=1FEB24)](https://git.io/streak-stats)
   
 ```py
 Thanks
