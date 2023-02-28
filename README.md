@@ -21,6 +21,15 @@ Bachelor in Systems Engineering with experience in the development and implement
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### ✍️ Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&redirect=true)
+
+### Donate🥺👉👈
+<a href="https://www.buymeacoffee.com/brayamhuaman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=brayamhuaman&icon=0&color=12)](https://visitcount.itsvg.in)
 
@@ -28,11 +37,3 @@ Bachelor in Systems Engineering with experience in the development and implement
 
 
 
-## Un café 🥺👉👈
-<a href="https://www.buymeacoffee.com/brayamhuaman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-    
-    <!-- TODO-IST:START -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&redirect=true)
-<!-- TODO-IST:END -->
