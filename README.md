@@ -15,7 +15,7 @@ Experience in the development and implementation of efficient and scalable techn
 ![](https://github-readme-stats.vercel.app/api?username=brayamhuaman&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=brayamhuaman)](https://github.com/brayamhuaman/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=brayamhuaman)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brayamhuaman&theme=no-bg=true&margin-w=4)
