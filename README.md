@@ -20,11 +20,6 @@ Experience in the development and implementation of efficient and scalable techn
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brayamhuaman&theme=no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=brayamhuaman)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### ✍️ Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ouczu6qaurqazci613v5wzw8a&redirect=true)
