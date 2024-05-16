@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experience in the development and implementation of efficient and scalable technological solutions. Proficient in programming languages such as Java and Python, as well as agile software development methodologies. Seeking opportunities to apply your skills and knowledge in innovative and challenging projects in the technology field.
+Experience in the development and implementation of efficient and scalable technological solutions. Seeking opportunities to apply your skills and knowledge in innovative and challenging projects in the technology field.
 
 
 ## 🌐 Socials:
