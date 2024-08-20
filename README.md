@@ -15,8 +15,8 @@ Experience in the development and implementation of efficient and scalable techn
 ![](https://github-readme-stats.vercel.app/api?username=brayamhuaman&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![brayamhuaman github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=brayamhuaman)
-![brayamhuaman github-trophies](https://stats.dooboo.io/api/github-trophies?login=brayamhuaman)
+
+
 
 
 ### 🔝 Top Contributed Repo
