@@ -12,7 +12,7 @@ Experience in the development and implementation of efficient and scalable techn
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/brayamhuaman)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/brayamhuaman) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/brayamhuaman) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([[https://stackoverflow.com/users/brayamhuaman](https://stackoverflow.com/users/21301662/brayam?tab=profile)](https://stackoverflow.com/users/21301662/brayam?tab=profile)) (https://tiktok.com/@bassfeelings)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([[https://stackoverflow.com/users/brayamhuaman](https://stackoverflow.com/users/21301662/brayam?tab=profile)](https://stackoverflow.com/users/21301662/brayam?tab=profile)) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pacoseeb)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brayamhuaman) 
 
