@@ -1,5 +1,10 @@
 # 🧑🏻‍💻 About Me:
-Experience in the development and implementation of efficient and scalable technological solutions. Seeking opportunities to apply your skills and knowledge in innovative and challenging projects in the technology field.
+
+👨‍💻 Full-Stack Developer | Especializado en IA y desarrollo móvil
+🎓 Ingenieria de Sistemas
+🚀 Apasionado por la Inteligencia Artificial y el desarrollo de aplicaciones multiplataforma
+💼 Developer
+📊 Experiencia en análisis de datos con Looker Studio y Google Cloud
 
 
 ## 🌐 Socials:
