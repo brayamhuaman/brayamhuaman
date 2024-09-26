@@ -3,7 +3,7 @@
 👨‍💻 Full-Stack Developer | Especializado en IA y desarrollo móvil <br/>
 🎓 Ingenieria de Sistemas <br/>
 🚀 Apasionado por la Inteligencia Artificial y el desarrollo de aplicaciones multiplataforma <br/>
-💼 Developer <br/>
+💼 Dev <br/>
 📊 Experiencia en análisis de datos con Looker Studio y Google Cloud
 
 
