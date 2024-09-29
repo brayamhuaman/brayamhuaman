@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 About Me:
 
-👨‍💻 Full-Stack Developer | Especializado en IA y desarrollo móvil <br/>
+👨‍💻 FrontEnd Developer | Especializado en IA y desarrollo móvil <br/>
 🎓 Ingenieria de Sistemas <br/>
 🚀 Apasionado por la Inteligencia Artificial y el desarrollo de aplicaciones multiplataforma <br/>
 💼 Dev <br/>
