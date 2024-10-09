@@ -3,7 +3,7 @@
 👨‍💻 FrontEnd Developer | Especializado en IA y Desarrollo Móvil <br/>
 🎓 Ingenieria de Sistemas <br/>
 🚀 Apasionado por la Inteligencia Artificial y el desarrollo de aplicaciones multiplataforma <br/>
-💼 CS <br/>
+💼 CS TR-S <br/>
 📊 Experiencia en análisis de datos con Looker Studio y Google Cloud
 
 
