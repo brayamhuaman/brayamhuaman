@@ -4,7 +4,7 @@
 🎓 Systems Engineering <br/>
 🚀 Apasionado por la Inteligencia Artificial y el desarrollo de aplicaciones multiplataforma <br/>
 💼 CS TR - S <br/>
-📊 Experiencia en análisis de datos con Looker Studio y Google Cloud
+📊  Looker Studio y Google Cloud
 
 
 ## 🌐 Socials:
