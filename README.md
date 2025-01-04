@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻 About Me:
 
-👨‍💻 FrontEnd App Dev | Especializado en IA y Desarrollo Móvil <br/>
+👨‍💻 FrontEnd App Dev |  IA y Desarrollo Móvil <br/>
 🎓 Systems Engineering <br/>
 🚀 Apasionado por la Inteligencia Artificial y el desarrollo de aplicaciones multiplataforma <br/>
 💼 CS - TR - S <br/>
