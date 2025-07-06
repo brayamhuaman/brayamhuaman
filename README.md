@@ -27,7 +27,7 @@
 
 </p>
 
-  ![brayamhuaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=dark&show_icons=true&hide_border=true) 
+![brayamhuaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=dark&show_icons=true&hide_border=true&layout=compact)
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brayamhuaman) 
