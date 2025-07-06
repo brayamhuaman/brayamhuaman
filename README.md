@@ -44,5 +44,5 @@
 [![](https://visitcount.itsvg.in/api?id=brayamhuaman&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
-
+![brayamhuaman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&theme=default&hide_border=true)
 
