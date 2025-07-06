@@ -24,10 +24,11 @@
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
     <a href="https://www.flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
     <a href="https://www.flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-  ![brayamhuaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=dark&show_icons=true&hide_border=true&layout=compact) 
+
 </p>
 
-
+  ![brayamhuaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=dark&show_icons=true&hide_border=true&layout=compact) 
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brayamhuaman) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/brayamhuaman) 
