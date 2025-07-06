@@ -24,7 +24,7 @@
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
     <a href="https://www.flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
     <a href="https://www.flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-   
+  ![brayamhuaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=dark&show_icons=true&hide_border=true&layout=compact) 
 </p>
 
 
@@ -43,8 +43,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=brayamhuaman&icon=0&color=12)](https://visitcount.itsvg.in)
 
-
-![brayamhuaman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&theme=default&hide_border=true)
-![brayamhuaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=default&show_icons=true&hide_border=true&layout=compact)
-
-![brayamhuaman's Stats](https://github-readme-stats.vercel.app/api?username=brayamhuaman&theme=default&show_icons=true&hide_border=true&count_private=true)
+![brayamhuaman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&theme=dark&hide_border=true)
+![brayamhuaman's Stats](https://github-readme-stats.vercel.app/api?username=brayamhuaman&theme=dark&show_icons=true&hide_border=true&count_private=true)
