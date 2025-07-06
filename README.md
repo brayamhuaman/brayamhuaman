@@ -45,4 +45,6 @@
 
 
 ![brayamhuaman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brayamhuaman&theme=default&hide_border=true)
+![brayamhuaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayamhuaman&theme=default&show_icons=true&hide_border=true&layout=compact)
 
+![brayamhuaman's Stats](https://github-readme-stats.vercel.app/api?username=brayamhuaman&theme=default&show_icons=true&hide_border=true&count_private=true)
